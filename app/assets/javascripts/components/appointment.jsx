@@ -1,4 +1,5 @@
 class Appointment extends React.Component {
+
   render() {
     return(
       <div key={this.props.appointment.id}>
